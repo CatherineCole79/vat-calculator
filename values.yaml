@@ -1,2 +1,2 @@
-image: catherine/vatcalc:<+pipeline.sequenceId>
+image: purplefluffyfeathers/vatcalc:<+pipeline.sequenceId>
 replicas: 1
